@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Persianas</title>
+    </head>
+    <body>
+        <h2>Persianas</h2>
+
+        <label>Selecione uma cor</label>
+        <input list="cor">
+        <datalist id="cor">
+            <option value="marro">
+            <option value="azul">
+            <option value="Bege">    
+
+            </option>
+        </datalist>
+    </body>
+</html>
