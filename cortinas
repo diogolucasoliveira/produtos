@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+     <title>Cortinas</title>
+ </head>
+
+<body> 
+    </h2><font color="Gray"> <h2>Cortinas de Tecido </h2> </font>
+    
+    <div>
+        <img src="cortina02.jpg" aling="middle" width="400" height="300">
+        <img src="cortina04.jpg" aling="middle" width="400" height="300">
+    </div>
+    <div>
+        <h2>Temos Cortinas em Tecido em Varias cores </h2>
+    </div><br><br>
+
+    <labe> <b>Escolha uma Cor</b></labe>
+    <select id="cor">
+        <option value="1">cores</option>
+        <option value="2">Verde</option>
+        <option value="3">Marrom</option>
+        <option value="4">Azul</option>
+        <option value="5">Bege</option>
+        <option value="6">Bordo</option>
+    </select>
+
+</body>
+
+</html>
